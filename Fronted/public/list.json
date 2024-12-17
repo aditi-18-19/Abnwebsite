@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "name": "Plot 1",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 2,
+        "name": "Plot 2",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 3,
+        "name": "Plot 3",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 4,
+        "name": "Plot 4",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 5,
+        "name": "Plot 5",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 6,
+        "name": "Plot 6",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 7,
+        "name": "Plot 7",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 8,
+        "name": "Plot 8",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 9,
+        "name": "Plot 9",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 10,
+        "name": "Plot 10",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    },
+    {
+        "id": 11,
+        "name": "Plot 11",
+        "title":"lorem epsum here comes the title of the plot no given and some description to it",
+        "price": 0,
+        "category": "Free today",
+        "image":"https://img.freepik.com/free-vector/architectural-floor-plan_1284-11101.jpg?t=st=1733947122~exp=1733950722~hmac=d979e6edb612a1d55786f8eee4b9bccac9b54657d0c2e9712d9126a49452a4af&w=740"
+
+    }
+    
+]
+
